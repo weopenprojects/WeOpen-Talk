@@ -11,7 +11,7 @@ WeOpen 对话开源人物的栏目，通过直播和文字专访的形式呈现�
 
 - 直播：关注腾源会视频号（每周三 20:00 直播）
 
-<img src="./腾源会视频号.png" title="腾源会视频号" alt="WeOpen Chennels">
+<img src="./腾源会视频号.png" title="腾源会视频号" alt="WeOpen Video">
 
 - 文字专访：关注腾源会公众号
 
